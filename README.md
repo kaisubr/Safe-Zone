@@ -3,7 +3,7 @@
 People are confined at home due to fears of COVID-19. The unknown spread of the virus makes it difficult for insurers to provide accurate life insurance quotes during this time. A shortage of food, and increased chaos all create problems in accurately tracing the movement of infected people.
 
 ## What do we know? 
-Most of cases are limited to large cities, like New York, so there are several _zones_ with few COVID-19 cases, where non-infected people can start to feel safer, once lockdown restrictions are lifted. People can meet up to trade supplies or enjoy the environment, such as parks and the great outdoors.
+Most of cases are limited to large cities, like New York, so there are several _zones_ with few COVID-19 cases, where non-infected people can start to feel safer, once lockdown restrictions are lifted. Non-infected people can meet up at these zones, to trade supplies or enjoy the environment -- such as parks and the great outdoors.
 
 ## Solution
 SafeZone discovers zones with few cases, and implements an accurate contact-tracing method to generate a network of people that you contact, simply through a Bluetooth exchange of anonymous IDs.  Non-infected people can travel to safe-zones and interact with others, without feeling anxious.
