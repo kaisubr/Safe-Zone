@@ -1,5 +1,5 @@
 
-Problem: Millions of Americans are quarantined at home, away from the outside world, and a global supply shortage creates the threat of hunger for many unemployed people.
+Problem: Millions of Americans are quarantined at home, away from the outside world, and a global supply shortage creates the threat of hunger for many unemployed people. The unknown spread of the virus makes insurers wary of writing life insurance policies during this time.
 
 What do we know? Over % of cases are only in large cities, like New York. As lockdowns will slowly be lifted, there are several zones of few COVID-19 cases, where non-infected people can start to feel safer. People can meet up to trade supplies or enjoy the environment, such as parks and the great outdoors.
 
