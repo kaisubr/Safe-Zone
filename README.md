@@ -3,10 +3,7 @@
 The spread of COVID-19 is difficult to quantify.
 * The unknown spread of the virus makes it difficult for insurers to provide accurate life insurance quotes during this time. 
 * A shortage of food and increased chaos during this time create problems in accurately tracing the movement of infected people.
-
-## What do we know? 
-Most of cases are limited to large cities, like New York. 
-* There are several _zones_ with few COVID-19 cases, where non-infected people can start to feel safer, once lockdown restrictions are lifted. 
+* There are several _zones_ with relatively _few_ COVID-19 cases, where non-infected people can start to feel safer, once lockdown restrictions are lifted. 
 * Non-infected people can meet up at these zones, to trade supplies or enjoy the environment -- such as parks and the great outdoors.
 
 ## Solution
