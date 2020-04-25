@@ -3,8 +3,8 @@
 The spread of COVID-19 is difficult to quantify.
 * The unknown spread of the virus makes it difficult for insurers to provide accurate life insurance quotes during this time. 
 * A shortage of food and increased chaos during this time create problems in accurately tracing the movement of infected people.
-* There are several _zones_ with relatively _few_ COVID-19 cases, where non-infected people can start to feel safer, once lockdown restrictions are lifted. 
-* Non-infected people can meet up at these zones, to trade supplies or enjoy the environment -- such as parks and the great outdoors.
+* There are several _zones_ with _few_ COVID-19 cases, where healthy people can start to feel safer, once lockdown restrictions are lifted. 
+* Healthy people can meet up at these zones, to trade supplies or enjoy the environment -- such as parks and the great outdoors.
 
 ## Solution
 * SafeZone discovers zones with few cases, and implements an accurate **contact-tracing method** to generate a network of people that you contact, simply through a Bluetooth exchange of anonymous IDs. Once lockdown restrictions are lifted, non-infected people can travel to safe-zones and interact with others, without feeling anxious.
