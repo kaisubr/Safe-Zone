@@ -1,7 +1,9 @@
 
-Millions of Americans are quarantined at home, away from the outside world, due to fear of COVID-19. However, % of cases are in large cities, like New York. As lockdowns will slowly be lifted, there are several zones of few COVID-19 cases, where non-infected people can start to feel safer. People can meet up to trade supplies or enjoy the environment, such as parks and the great outdoors.
+Problem: Millions of Americans are quarantined at home, away from the outside world, and a global supply shortage creates the threat of hunger for many unemployed people.
 
-SafeZone discovers zones with few cases, and implements an accurate contact-tracing method to generate a network of people that you contact, simply through a Bluetooth exchange of anonymous IDs.
+What do we know? Over % of cases are only in large cities, like New York. As lockdowns will slowly be lifted, there are several zones of few COVID-19 cases, where non-infected people can start to feel safer. People can meet up to trade supplies or enjoy the environment, such as parks and the great outdoors.
+
+Solution: SafeZone discovers zones with few cases, and implements an accurate contact-tracing method to generate a network of people that you contact, simply through a Bluetooth exchange of anonymous IDs.
 
 
 
