@@ -2,12 +2,16 @@ SafeZone is a mobile app that traces your exposure to COVID-19, in order to bett
 
 By algorithmically designating safe zones (with few cases and a low mortality rate), the relaxation of lockdowns will furthermore provide a place for healthy people to meet without anxiety.
 
+
 ## Problem
 The spread of COVID-19 is difficult to quantify.
 * The unknown spread of the virus makes it difficult for insurers to provide accurate life insurance quotes during this time. 
 * A shortage of food and increased chaos during this time create problems in accurately tracing the movement of infected people.
 * There are several areas (_zones_) with _few_ COVID-19 cases.
-* As lockdown restrictions are relaxed, healthy people can meet up at these zones, to trade supplies or enjoy the environment -- such as parks and the great outdoors.
+* As lockdown restrictions are relaxed, healthy people can meet up at these zones, to trade supplies or enjoy the environment -- such as parks and the great outdoors. 
+
+<!--> "This is \[nature's\] warning shot... It's human behaviour that causes it and there will be more in the future unless we change." (Andrew Cunningham, Zoological Society of London) -->
+
 
 ## Solution
 * Using publicly available data at the county level, SafeZone designates zones with few COVID-19 cases, and implements an accurate **contact-tracing method** to generate a network of people that you contact, simply through a Bluetooth exchange of anonymous IDs. Non-infected people can travel to safe-zones and interact with others, without feeling anxious.
