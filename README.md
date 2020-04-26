@@ -10,7 +10,7 @@ The spread of COVID-19 is difficult to quantify.
 * There are several areas (_zones_) with _few_ COVID-19 cases.
 * As lockdown restrictions are relaxed, healthy people can meet up at these zones, to trade supplies or enjoy the environment -- such as parks and the great outdoors. 
 
-<!--> "This is \[nature's\] warning shot... It's human behaviour that causes it and there will be more in the future unless we change." (Andrew Cunningham, Zoological Society of London) -->
+<!-- > "This is \[nature's\] warning shot... It's human behaviour that causes it and there will be more in the future unless we change." (Andrew Cunningham, Zoological Society of London) -->
 
 
 ## Solution
