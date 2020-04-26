@@ -1,0 +1,106 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" android:padding="10dp">
+    <!--    <ImageView-->
+    <!--            android:src="@drawable/header_logo"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="64dp"-->
+    <!--            android:scaleType="center"-->
+    <!--            android:background="#FFFFBB33"-->
+    <!--            android:contentDescription="@string/app_name" />-->
+    <TextView
+            android:text="Provide additional information"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/textView" android:textAlignment="center"
+            android:textSize="24sp" android:padding="5dp" android:fontFamily="sans-serif-black"
+            android:textColor="@android:color/black"/>
+
+    <TextView
+            android:text="Age:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/textView2" android:textAlignment="center"
+            android:textSize="14sp" android:padding="2dp" android:layout_marginTop="12dp"
+            android:textColor="@android:color/black" android:textStyle="italic"/>
+
+    <me.angrybyte.numberpicker.view.ActualNumberPicker
+            android:id="@+id/numberPickerAge"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:layout_marginBottom="12dp"
+            android:background="@android:color/white"
+            app:bar_color="@android:color/holo_purple"
+            app:controls_color="@android:color/white"
+            app:draw_over_controls="true"
+            app:draw_over_text="false"
+            app:max_value="100"
+            app:min_value="0"
+            app:selection_color="#A0FF3040"
+            app:show_controls="true"
+            app:show_text="true"
+            app:text_color="@android:color/black"
+            app:text_size="16sp"
+            app:value="40" />
+
+    <TextView
+            android:text="Medical history (0: no issues, excellent history; to 5: poor history)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/textView3" android:textAlignment="center"
+            android:textSize="14sp" android:padding="2dp" android:layout_marginTop="16dp"
+            android:textColor="@android:color/black" android:textStyle="italic"/>
+
+    <me.angrybyte.numberpicker.view.ActualNumberPicker
+            android:id="@+id/numberPickerHealth"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:layout_marginBottom="12dp"
+            android:background="@android:color/white"
+            app:bar_color="@android:color/holo_purple"
+            app:controls_color="@android:color/white"
+            app:draw_over_controls="true"
+            app:draw_over_text="false"
+            app:max_value="5"
+            app:min_value="0"
+            app:selection_color="#A0FF3040"
+            app:show_controls="true"
+            app:show_text="true"
+            app:text_color="@android:color/black"
+            app:text_size="16sp"
+            app:value="2" />
+
+    <TextView
+            android:text="Exposure to others:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/textView5" android:textAlignment="center"
+            android:textSize="14sp" android:padding="2dp" android:layout_marginTop="16dp"
+            android:textColor="@android:color/black" android:textStyle="italic"/>
+    <TextView
+            android:text="6 people"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/textNumOthers" android:textAlignment="center"
+            android:textSize="18sp" android:padding="2dp" android:layout_marginTop="1dp"
+            android:textColor="@android:color/black"/>
+
+
+    <TextView
+            android:text="You are:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/textView4" android:textAlignment="center"
+            android:textSize="14sp" android:padding="2dp" android:layout_marginTop="16dp"
+            android:textColor="@android:color/black" android:textStyle="italic"/>
+    <TextView
+            android:text="Uninfected/asymptomatic\n(based on information provided at registration; tap to change)."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/textIsInfected" android:textAlignment="center"
+            android:textSize="14sp" android:padding="2dp" android:layout_marginTop="1dp"
+            android:textColor="@android:color/black"/>
+
+
+</LinearLayout>
