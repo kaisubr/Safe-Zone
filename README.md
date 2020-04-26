@@ -5,8 +5,8 @@ By algorithmically designating safe zones (with few cases and a low mortality ra
 
 ## Problem
 The spread of COVID-19 is difficult to quantify.
-* The unknown spread of the virus makes it difficult for insurers to accurately assess risk for life insurance claims during this time. 
-* A shortage of food and increased chaos during this time create problems in accurately tracing the movement of infected people.
+* The unknown spread of the virus creates problems for insurers to accurately assess risk for life insurance claims during this time. 
+* A shortage of food and increased chaos creates difficulty in accurately tracing the movement of infected people.
 * There are several areas (_zones_) with _few_ COVID-19 cases.
 * As lockdown restrictions are relaxed, healthy people can meet up at these zones, to trade supplies or enjoy the environment -- such as parks and the great outdoors. 
 
