@@ -1,7 +1,6 @@
-SafeZone is a mobile app that traces your exposure to COVID-19, in order to better assess risk in life insurance claims through machine learning. 
+SafeZone is a mobile app that traces your exposure to COVID-19, in order to better assess life insurance claims through machine learning. 
 
 By algorithmically designating safe zones (with few cases and a low mortality rate), the relaxation of lockdowns will furthermore provide a place for healthy people to meet without anxiety.
-
 
 ## Problem
 The spread of COVID-19 is difficult to quantify.
