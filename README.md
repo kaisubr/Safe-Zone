@@ -27,3 +27,7 @@ The home page:
 A small network:
 
 <img src="a_small_network.png" style="text-align: center" width="220" />
+
+Predicted response for a sample claim:
+
+<img src="claim_risk.png" style="text-align: center" width="220" />
