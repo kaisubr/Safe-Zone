@@ -2,6 +2,12 @@ SafeZone is a mobile app that traces your exposure to COVID-19, in order to bett
 
 By algorithmically designating safe zones (with few cases and a low mortality rate), the virus can be contained. Furthermore, with the relaxation of lockdowns, safe zones will provide a place for healthy people to meet without anxiety, as well as enjoy the natural world.
 
+<p align="center">
+  <img src="a_small_network.png" style="text-align: center" width="220" />
+  </br>
+  <i>Network that is built based on other people you have met (screenshot from app)</i>
+</p>
+
 ## Problem
 The spread of COVID-19 is difficult to quantify.
 * Unknown spread of the virus creates problems for insurers to accurately assess risk for life insurance claims during this time. 
